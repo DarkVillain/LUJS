@@ -1,0 +1,21 @@
+.body {
+  height: 100%;
+  width: 100%;
+  background-color: blueviolet;
+}
+
+.container{
+  height: 100%;
+  width: 100%;
+}
+
+#display{
+  width: 100%;
+  font-size: 72px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.buttons{
+  text-align: center;
+}
